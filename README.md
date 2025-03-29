@@ -121,6 +121,10 @@ def compress_files(directory, output_file):
 
 ## Implementation Details
 
+![Screenshot 2025-01-18 132655](https://github.com/user-attachments/assets/e60f378e-07dc-4cfc-aef1-296b143cc64f)
+![Screenshot 2025-01-18 132628](https://github.com/user-attachments/assets/27403b91-30e3-4e09-895d-bf26bd994108)
+
+
 ### RAG Implementation
 
 The system uses a two-stage approach:
