@@ -1,0 +1,22 @@
+# Web Framework
+fastapi>=0.95.0
+uvicorn>=0.21.1
+pydantic>=2.0.0
+
+# Vector Database
+chromadb>=0.4.2
+
+# ML/LLM
+sentence-transformers>=2.2.2
+transformers>=4.30.2
+torch>=2.0.0
+
+# System Utilities
+psutil>=5.9.5
+
+# Testing
+pytest>=7.3.1
+httpx>=0.24.0
+
+# Utilities
+python-dotenv>=1.0.0
