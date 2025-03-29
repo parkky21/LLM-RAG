@@ -121,8 +121,9 @@ def compress_files(directory, output_file):
 
 ## Implementation Details
 
-![Screenshot 2025-01-18 132655](https://github.com/user-attachments/assets/e60f378e-07dc-4cfc-aef1-296b143cc64f)
-![Screenshot 2025-01-18 132628](https://github.com/user-attachments/assets/27403b91-30e3-4e09-895d-bf26bd994108)
+![Screenshot 2025-03-29 190939](https://github.com/user-attachments/assets/e168375f-f42b-42a8-9d2c-cc99767a70e6)
+![Screenshot 2025-03-29 190857](https://github.com/user-attachments/assets/2310f948-5044-46a7-81a7-9b571a772991)
+
 
 
 ### RAG Implementation
